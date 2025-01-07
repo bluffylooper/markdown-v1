@@ -1,0 +1,12 @@
+{
+  "name": "@velite/basic-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "velite dev",
+    "build": "velite build"
+  },
+  "devDependencies": {
+    "velite": "workspace:*"
+  }
+}
