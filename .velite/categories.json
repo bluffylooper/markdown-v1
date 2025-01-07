@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Journal",
+    "slug": "journal",
+    "cover": {
+      "src": "/static/journal-63fcc0.webp",
+      "height": 480,
+      "width": 720,
+      "blurDataURL": "data:image/webp;base64,UklGRiwAAABXRUJQVlA4ICAAAABQAQCdASoIAAUADMDOJZAAAFsAAMnVt35cnx+VJNAAAA==",
+      "blurWidth": 8,
+      "blurHeight": 5
+    },
+    "description": "serving as a platform for academic exchange and dissemination of knowledge",
+    "count": {
+      "total": 2,
+      "posts": 2
+    },
+    "permalink": "/journal"
+  },
+  {
+    "name": "Photography",
+    "slug": "photography",
+    "description": "All photography logs",
+    "count": {
+      "total": 0,
+      "posts": 0
+    },
+    "permalink": "/photography"
+  },
+  {
+    "name": "Travel",
+    "slug": "travel",
+    "description": "All travel logs",
+    "count": {
+      "total": 0,
+      "posts": 0
+    },
+    "permalink": "/travel"
+  }
+]
